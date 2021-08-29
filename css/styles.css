@@ -1,0 +1,151 @@
+body {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 100px auto 0 auto;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 50px;
+    color: #3d84b8;
+}
+
+.para {
+    font-size: 2rem;
+    display: block;
+    color: #3d84b8;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    width: 100%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 360px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+}
+
+.skill-row {
+    display: inline;
+}
+
+.img {
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+}
+
+.img-chilli {
+    height: 200px;
+    position: absolute;
+    left: 900px;
+}
+
+.dev {
+    font-size: 35px;
+    margin-right: 350px;
+    color: #3d84b8;
+    font-family: 'Courgette', cursive;
+}
+
+.freelance {
+    font-size: 50px;
+    color: #e1701a;
+    font-style: oblique;
+    width: 700px;
+    height: 100px;
+    margin: auto;
+    font-family: 'Cookie', cursive;
+}
+
+.freelance-para {
+    width: 500px;
+    margin: auto;
+    font-size: 30px;
+    font-family: 'IM Fell English', serif;
+    height: 200px;
+    text-align: center;
+}
+
+.dev-para {
+    width: 500px;
+    margin-left: 230PX;
+    font-size: 20px;
+    font-style: italic;
+    height: 200px;
+    text-align: justify;
+}
+
+.span1 {
+    display: inline-block;
+    width: 1100px;
+    height: 10px;
+    margin-left: 300px;
+    font-size: 35px;
+    font-family: 'Courgette', cursive;
+    color: #3d84b8;
+}
+
+.p1 {
+    width: 500px;
+    margin-left: 600px;
+    font-size: 20px;
+    font-style: italic;
+    height: 200px;
+    text-align: justify;
+}
+
+.hello {
+    color: purple;
+    font-size: 60px;
+    font-family: 'Courgette', cursive;
+}
+
+.hello-para {
+    width: 600px;
+    margin: auto;
+    font-size: 30px;
+    font-style: italic;
+    height: 100px;
+    font-family: 'IM Fell English', serif;
+}
+
+.what {
+    color: purple;
+    font-size: 40px;
+    font-family: 'Courgette', cursive;
+    height: 70px;
+    margin-bottom: 70px;
+}
+
+.setting {
+    position: fixed;
+}
+
+.itachi {
+    width: 200px;
+    height: 200px;
+    padding-bottom: 50px;
+}
+
+.help {
+    color: purple;
+    font-size: 40px;
+    font-family: 'Courgette', cursive;
+    height: 70px;
+}
+
+.get {
+    color: purple;
+    font-size: 40px;
+    font-family: 'Courgette', cursive;
+}
